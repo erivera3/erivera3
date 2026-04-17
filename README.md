@@ -31,7 +31,7 @@
     <a href="https://github.com/erivera3/post-install-config">osTicket: Post-Installation Configuration</a>
   </li>
   <li>
-    <a href="PASTE_TICKET_LIFECYCLE_LINK">osTicket: Ticket Lifecycle Examples</a>
+    <a href="https://github.com/erivera3/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a>
   </li>
 </ul>
 
