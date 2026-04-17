@@ -25,7 +25,7 @@
 <h3>Help Desk & Ticketing Systems (osTicket)</h3>
 <ul>
   <li>
-    <a href="PASTE_OSTICKET_PREREQS_LINK">osTicket: Prerequisites and Installation</a>
+    <a href="https://github.com/erivera3/osticket-prereqs/">osTicket: Prerequisites and Installation</a>
   </li>
   <li>
     <a href="PASTE_POST_INSTALL_CONFIG_LINK">osTicket: Post-Installation Configuration</a>
