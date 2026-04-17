@@ -69,10 +69,12 @@
 <ul>
   <li>
     <a href="https://www.coursera.org/account/accomplishments/records/YPQ25WXG5M3K">
-      Technical Support Fundamentals - Google (Dec 2025)
+      Technical Support Fundamentals - Google (Dec 2025)<br>
+      Credential ID: YPQ25WXG5M3K
     </a>
   </li>
   <li>
+    <a href="https://www.coursera.org/account/accomplishments/verify/640EJGQWAFQD">
     The Bits and Bytes of Computer Networking - Google (Mar 2026)<br>
     Credential ID: 640EJGQWAFQD
   </li>
