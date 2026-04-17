@@ -46,7 +46,7 @@
     <a href="https://github.com/erivera3/configure-ad/">Configuring Active Directory in Azure Virtual Machines</a>
   </li>
   <li>
-    <a href="PASTE_AZURE_NETWORK_PROTOCOLS_LINK">Network Security Groups (NSGs) and Inspecting Network Protocols</a>
+    <a href="https://github.com/erivera3/azure-network-protocols">Network Security Groups (NSGs) and Inspecting Network Protocols</a>
   </li>
 </ul>
 
