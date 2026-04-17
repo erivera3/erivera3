@@ -28,7 +28,7 @@
     <a href="https://github.com/erivera3/osticket-prereqs/">osTicket: Prerequisites and Installation</a>
   </li>
   <li>
-    <a href="PASTE_POST_INSTALL_CONFIG_LINK">osTicket: Post-Installation Configuration</a>
+    <a href="https://github.com/erivera3/post-install-config">osTicket: Post-Installation Configuration</a>
   </li>
   <li>
     <a href="PASTE_TICKET_LIFECYCLE_LINK">osTicket: Ticket Lifecycle Examples</a>
