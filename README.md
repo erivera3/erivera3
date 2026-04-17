@@ -106,6 +106,6 @@
 <h2>🤝 Connect With Me</h2>
 
 <p>
-  <a href="PASTE_LINKEDIN_URL">LinkedIn</a> |
-  <a href="PASTE_GITHUB_PROFILE_URL">GitHub</a>
+  <a href="https://www.linkedin.com/in/eladiorivera/">LinkedIn</a> |
+  <a href="https://github.com/erivera3">GitHub</a>
 </p>
