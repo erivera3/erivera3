@@ -2,14 +2,21 @@
 
 <p>
   <b>IT Support & Cybersecurity Career Transition</b><br>
-  Boarding Director with 12+ years of experience in operations, systems, accountability, and risk management,
-  now building hands-on skills in IT support, networking, system administration, and cybersecurity.
+ Boarding Director with 12+ years of experience managing high-accountability environments,
+  now transitioning into IT support with a focus on system administration, networking, and security.
 </p>
 
 <p>
   My work focuses on practical lab environments, troubleshooting, and clear technical documentation.
-  I am building real-world projects that demonstrate how I approach problems and implement solutions.
+  I build projects that demonstrate how I approach problems and implement solutions.
 </p>
+
+<h3>Professional Strengths</h3>
+<ul>
+  <li>Structured problem-solving</li>
+  <li>Real-world decision-making under pressure</li>
+  <li>Strong communication and technical documentation</li>
+</ul>
 
 <hr>
 
