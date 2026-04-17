@@ -1,75 +1,109 @@
-<h1>Hi, I'm Eladio Rivera <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi, I'm Eladio Rivera</h1>
 
 <p>
-  <b>Aspiring IT & Cybersecurity Professional</b><br>
-  Former Boarding Director transitioning into IT with a focus on hands-on skills in
-  technical support, system administration, networking, and security.
+  <b>IT Support & Cybersecurity Career Transition</b><br>
+  Boarding Director with 12+ years of experience in operations, systems, accountability, and risk management,
+  now building hands-on skills in IT support, networking, system administration, and cybersecurity.
 </p>
 
 <p>
-  I am building practical projects that demonstrate real-world IT workflows, troubleshooting,
-  documentation, and lab-based problem solving.
+  My work focuses on practical lab environments, troubleshooting, and clear technical documentation.
+  I am building real-world projects that demonstrate how I approach problems and implement solutions.
 </p>
 
 <hr>
 
-<h2>🛠️ Information Technology Projects</h2>
+<h2>🛠 Information Technology Projects</h2>
 
-<h3>osTicket (Help Desk Ticketing System)</h3>
+<h3>Help Desk & Ticketing Systems (osTicket)</h3>
 <ul>
-  <li><a href="PASTE_YOUR_OSTICKET_PREREQS_LINK_HERE">osTicket: Prerequisites and Installation</a></li>
-  <li><a href="PASTE_YOUR_POST_INSTALL_CONFIG_LINK_HERE">osTicket: Post-Installation Configuration</a></li>
-  <li><a href="PASTE_YOUR_TICKET_LIFECYCLE_LINK_HERE">osTicket: Ticket Lifecycle Examples</a></li>
+  <li>
+    <a href="PASTE_OSTICKET_PREREQS_LINK">osTicket: Prerequisites and Installation</a>
+  </li>
+  <li>
+    <a href="PASTE_POST_INSTALL_CONFIG_LINK">osTicket: Post-Installation Configuration</a>
+  </li>
+  <li>
+    <a href="PASTE_TICKET_LIFECYCLE_LINK">osTicket: Ticket Lifecycle Examples</a>
+  </li>
 </ul>
 
 <p>
-  <b>Skills Demonstrated:</b> help desk workflows, ticket management, troubleshooting,
-  system setup, user support, and documentation
+  <b>Skills demonstrated:</b> help desk workflows, ticket management, troubleshooting, system configuration,
+  user support, and technical documentation.
 </p>
 
 <h3>Microsoft Azure & Active Directory</h3>
 <ul>
-  <li><a href="PASTE_YOUR_CONFIGURE_AD_LINK_HERE">Configuring Active Directory in Azure VMs</a></li>
-  <li><a href="PASTE_YOUR_AZURE_NETWORK_PROTOCOLS_LINK_HERE">Network Security Groups (NSGs) and Inspecting Network Protocols</a></li>
+  <li>
+    <a href="PASTE_CONFIGURE_AD_LINK">Configuring Active Directory in Azure Virtual Machines</a>
+  </li>
+  <li>
+    <a href="PASTE_AZURE_NETWORK_PROTOCOLS_LINK">Network Security Groups (NSGs) and Inspecting Network Protocols</a>
+  </li>
 </ul>
 
 <p>
-  <b>Skills Demonstrated:</b> cloud infrastructure, Active Directory, identity and access management,
-  network security, and protocol analysis
+  <b>Skills demonstrated:</b> cloud administration, Active Directory, user and group management,
+  network security, protocol analysis, and troubleshooting.
 </p>
 
-<hr>
-
-<h2>📘 Currently Learning</h2>
+<h3>Networking & Home Lab Projects</h3>
 <ul>
-  <li>CompTIA A+ Core 1 and Core 2</li>
-  <li>Networking fundamentals (TCP/IP, DNS, DHCP)</li>
-  <li>Security fundamentals and lab environments</li>
-  <li>IT troubleshooting and systems documentation</li>
+  <li>
+    <a href="PASTE_DD_WRT_OR_NETWORK_PROJECT_LINK">Wi-Fi Access Point Build / DD-WRT Networking Project</a>
+  </li>
+  <li>
+    <a href="PASTE_ADDITIONAL_LAB_PROJECT_LINK">Additional Networking or Troubleshooting Lab</a>
+  </li>
 </ul>
 
-<hr>
-
-<h2>🎯 Career Goal</h2>
 <p>
-  My goal is to secure an entry-level IT support, help desk, or cybersecurity role where I can
-  apply hands-on technical skills, continue building experience, and contribute to real systems.
+  <b>Skills demonstrated:</b> network configuration, troubleshooting, device access recovery,
+  testing, documentation, and problem-solving under real constraints.
 </p>
 
 <hr>
 
-<h2>🤝 Connect with Me</h2>
+<h2>📘 Certifications & Coursework</h2>
+<ul>
+  <li>
+    <a href="https://www.coursera.org/account/accomplishments/records/YPQ25WXG5M3K">
+      Technical Support Fundamentals - Google (Dec 2025)
+    </a>
+  </li>
+  <li>
+    The Bits and Bytes of Computer Networking - Google (Mar 2026)<br>
+    Credential ID: 640EJGQWAFQD
+  </li>
+</ul>
+
+<hr>
+
+<h2>🎯 What I'm Working On</h2>
+<ul>
+  <li>Applying networking fundamentals (TCP/IP, DNS, DHCP) in hands-on lab environments</li>
+  <li>Building and troubleshooting Active Directory environments in Azure</li>
+  <li>Simulating help desk workflows using ticketing systems (osTicket)</li>
+  <li>Improving technical documentation and structured problem-solving</li>
+</ul>
+
+<hr>
+
+<h2>🧠 Professional Strengths</h2>
+<ul>
+  <li>Systems thinking</li>
+  <li>Structured problem-solving</li>
+  <li>Incident response and accountability</li>
+  <li>Operations leadership in high-responsibility environments</li>
+  <li>Clear documentation and process design</li>
+</ul>
+
+<hr>
+
+<h2>🤝 Connect With Me</h2>
 
 <p>
-  <a href="PASTE_YOUR_LINKEDIN_URL_HERE" target="_blank">
-    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="PASTE_YOUR_GITHUB_URL_HERE" target="_blank">
-    <img alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="PASTE_YOUR_EMAIL_OR_PORTFOLIO_LINK_HERE" target="_blank">
-    <img alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
-  </a>
+  <a href="PASTE_LINKEDIN_URL">LinkedIn</a> |
+  <a href="PASTE_GITHUB_PROFILE_URL">GitHub</a>
 </p>
