@@ -43,7 +43,7 @@
 <h3>Microsoft Azure & Active Directory</h3>
 <ul>
   <li>
-    <a href="PASTE_CONFIGURE_AD_LINK">Configuring Active Directory in Azure Virtual Machines</a>
+    <a href="https://github.com/erivera3/configure-ad/">Configuring Active Directory in Azure Virtual Machines</a>
   </li>
   <li>
     <a href="PASTE_AZURE_NETWORK_PROTOCOLS_LINK">Network Security Groups (NSGs) and Inspecting Network Protocols</a>
