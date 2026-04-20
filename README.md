@@ -1,9 +1,12 @@
 <h1>Hi, I'm Eladio Rivera</h1>
 
 <p>
-  <b>IT Support & Cybersecurity Career Transition</b><br>
- Boarding Director with 12+ years of experience managing high-accountability environments,
-  now transitioning into IT support with a focus on system administration, networking, and security.
+  <b>
+IT Support | System Administration | Networking
+
+Boarding Director with 12+ years managing high-accountability environments, now focused on IT systems, infrastructure, and security.
+
+I build hands-on lab environments in Active Directory and networking, emphasizing troubleshooting, system behavior, and practical implementation.
 </p>
 
 <p>
