@@ -1,12 +1,15 @@
 <h1>Hi, I'm Eladio Rivera</h1>
 
 <p>
-  <b>
-IT Support | System Administration | Networking
+  <b>IT Support | System Administration | Networking</b>
+</p>
 
-Boarding Director with 12+ years managing high-accountability environments, now focused on IT systems, infrastructure, and security.
+<p>
+  Boarding Director with 12+ years managing high-accountability environments, now focused on IT systems, infrastructure, and security.
+</p>
 
-I build hands-on lab environments in Active Directory and networking, emphasizing troubleshooting, system behavior, and practical implementation.
+<p>
+  I build hands-on lab environments in Active Directory and networking, emphasizing troubleshooting, system behavior, and practical implementation.
 </p>
 
 <p>
@@ -75,6 +78,57 @@ I build hands-on lab environments in Active Directory and networking, emphasizin
 
 <hr>
 
+<h2>🚨 Incident Response & Systems Thinking</h2>
+
+<p>
+  Real-world incident management in high-risk environments, demonstrating decision-making under pressure,
+  risk assessment, communication, and system design beyond theoretical scenarios.
+</p>
+
+<h3>Wildfire Incident Response System (Real-World Case Study)</h3>
+<ul>
+  <li>
+    <a href="PASTE_YOUR_WILDFIRE_REPO_LINK_HERE">
+      Detection, Containment, and Evacuation Planning Under Uncertainty
+    </a>
+  </li>
+</ul>
+
+<p>
+  <b>Skills demonstrated:</b> incident response, risk assessment, evacuation planning, communication under stress,
+  systems thinking, real-time decision-making, and contingency planning.
+</p>
+
+<h3>Earthquake Response & Student Safety Protocol</h3>
+<ul>
+  <li>
+    <a href="PASTE_EARTHQUAKE_REPO_LINK_HERE">
+      Immediate Response, Accountability, and Post-Event Coordination
+    </a>
+  </li>
+</ul>
+
+<p>
+  <b>Skills demonstrated:</b> emergency response, safety protocols, accountability systems,
+  coordination under uncertainty, and structured decision-making.
+</p>
+
+<h3>Campus Security Incident: Intruder Response</h3>
+<ul>
+  <li>
+    <a href="PASTE_INTRUDER_REPO_LINK_HERE">
+      Threat Detection, Communication, and Controlled Response
+    </a>
+  </li>
+</ul>
+
+<p>
+  <b>Skills demonstrated:</b> threat assessment, security awareness, communication protocols,
+  rapid response coordination, and risk mitigation.
+</p>
+
+<hr>
+
 <h2>📘 Certifications & Coursework</h2>
 <ul>
   <li>
@@ -85,8 +139,9 @@ I build hands-on lab environments in Active Directory and networking, emphasizin
   </li>
   <li>
     <a href="https://www.coursera.org/account/accomplishments/verify/640EJGQWAFQD">
-    The Bits and Bytes of Computer Networking - Google (Mar 2026)<br>
-    Credential ID: 640EJGQWAFQD
+      The Bits and Bytes of Computer Networking - Google (Mar 2026)<br>
+      Credential ID: 640EJGQWAFQD
+    </a>
   </li>
 </ul>
 
