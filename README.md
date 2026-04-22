@@ -88,7 +88,7 @@
 <h3>Wildfire Incident Response System (Real-World Case Study)</h3>
 <ul>
   <li>
-    <a href="PASTE_YOUR_WILDFIRE_REPO_LINK_HERE">
+    <a href="https://github.com/erivera3/wildfire-incident-response-system/">
       Detection, Containment, and Evacuation Planning Under Uncertainty
     </a>
   </li>
