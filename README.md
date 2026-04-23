@@ -1,205 +1,83 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Eladio Rivera | IT Support & System Administration</title>
-</head>
-<body>
-  <h1>Hi, I'm Eladio Rivera</h1>
+# Eladio Rivera  
+**IT Support | System Administration | Networking**
 
-  <p><b>IT Support | System Administration | Networking</b></p>
+Boarding Director with 12+ years managing high-accountability environments, now transitioning into IT support, system administration, and infrastructure.
 
-  <p>
-    Boarding Director with 12+ years managing high-accountability environments, now focused on IT support,
-    system administration, networking, and security fundamentals.
-  </p>
+I build hands-on lab environments in Active Directory, Azure, ticketing systems, and networking, with a focus on troubleshooting, system behavior, and practical implementation.
 
-  <p>
-    I build hands-on lab environments in Active Directory, Azure, ticketing systems, and networking,
-    with an emphasis on troubleshooting, system behavior, and practical implementation.
-  </p>
+---
 
-  <p>
-    My work is centered on practical lab projects, clear technical documentation, and structured problem-solving.
-    I focus on building environments that demonstrate how I diagnose issues, implement solutions, and communicate clearly.
-  </p>
+## 🛠 Core IT Skills
+- Active Directory administration  
+- Help desk workflows & ticketing systems (osTicket)  
+- Windows & Azure lab environments  
+- Networking fundamentals (TCP/IP, DNS, DHCP)  
+- Troubleshooting & system diagnostics  
+- Technical documentation  
 
-  <hr>
+---
 
-  <h2>🛠 Core IT Skills</h2>
-  <ul>
-    <li>Active Directory administration</li>
-    <li>Help desk workflows and ticket management</li>
-    <li>Windows and Azure lab environments</li>
-    <li>Networking fundamentals and troubleshooting</li>
-    <li>Technical documentation</li>
-    <li>Structured problem-solving under pressure</li>
-  </ul>
+## 💻 IT Support & System Administration Labs
 
-  <hr>
+### 🔹 Help Desk & Ticketing Systems (osTicket)
+- [osTicket: Prerequisites and Installation](https://github.com/erivera3/osticket-prereqs/)  
+- [osTicket: Post-Installation Configuration](https://github.com/erivera3/post-install-config)  
+- [osTicket: Ticket Lifecycle Examples](https://github.com/erivera3/ticket-lifecycle)  
 
-  <h2>💻 IT Support & System Administration Labs</h2>
+**Skills:** ticket workflows, user support, troubleshooting, escalation, system configuration  
 
-  <h3>Help Desk & Ticketing Systems (osTicket)</h3>
-  <ul>
-    <li>
-      <a href="https://github.com/erivera3/osticket-prereqs/">osTicket: Prerequisites and Installation</a>
-    </li>
-    <li>
-      <a href="https://github.com/erivera3/post-install-config">osTicket: Post-Installation Configuration</a>
-    </li>
-    <li>
-      <a href="https://github.com/erivera3/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a>
-    </li>
-  </ul>
+---
 
-  <p>
-    <b>Skills demonstrated:</b> help desk workflows, ticket management, troubleshooting, system configuration,
-    user support, escalation flow, and technical documentation.
-  </p>
+### 🔹 Microsoft Azure & Active Directory
+- [Configuring Active Directory in Azure Virtual Machines](https://github.com/erivera3/configure-ad/)  
+- [Network Security Groups (NSGs) & Protocol Inspection](https://github.com/erivera3/azure-network-protocols)  
 
-  <h3>Microsoft Azure & Active Directory</h3>
-  <ul>
-    <li>
-      <a href="https://github.com/erivera3/configure-ad/">Configuring Active Directory in Azure Virtual Machines</a>
-    </li>
-    <li>
-      <a href="https://github.com/erivera3/azure-network-protocols">Network Security Groups (NSGs) and Inspecting Network Protocols</a>
-    </li>
-  </ul>
+**Skills:** user/group management, domain services, cloud environments, network security  
 
-  <p>
-    <b>Skills demonstrated:</b> cloud administration, Active Directory, user and group management,
-    network security, protocol analysis, remote connectivity, and troubleshooting.
-  </p>
+---
 
-  <h3>Networking & Home Lab Projects</h3>
-  <ul>
-    <li>
-      <a href="PASTE_DD_WRT_OR_NETWORK_PROJECT_LINK">Wi-Fi Access Point Build / DD-WRT Networking Project</a>
-    </li>
-    <li>
-      <a href="PASTE_ADDITIONAL_LAB_PROJECT_LINK">Additional Networking or Troubleshooting Lab</a>
-    </li>
-  </ul>
+### 🔹 Networking & Home Lab Projects
+- Wi-Fi Access Point / DD-WRT Networking Project *(link coming soon)*  
+- Additional Networking Lab *(link coming soon)*  
 
-  <p>
-    <b>Skills demonstrated:</b> network configuration, troubleshooting, device access recovery,
-    testing, documentation, and problem-solving under real constraints.
-  </p>
+**Skills:** network configuration, troubleshooting, connectivity testing, device access recovery  
 
-  <hr>
+---
 
-  <h2>🧩 Featured Lab Focus</h2>
-  <p>
-    My portfolio is built around practical entry-level IT work: provisioning users, configuring systems,
-    troubleshooting connectivity, documenting fixes, and managing ticket workflows.
-  </p>
+## 🧩 What These Projects Demonstrate
+- Real-world IT support scenarios  
+- Structured troubleshooting and root-cause analysis  
+- Clear documentation and communication  
+- Hands-on system configuration and management  
 
-  <p>
-    The projects above are designed to reflect the kinds of problems IT support and junior system administration
-    roles handle every day.
-  </p>
+---
 
-  <hr>
+## 🚨 Operational Incident Response (Transferable Skills)
 
-  <h2>🚨 Operational Incident Response (Transferable Skills)</h2>
+Experience managing real-world incidents in high-responsibility environments. These projects highlight decision-making under pressure, communication, and structured response—skills directly transferable to IT support and operations.
 
-  <p>
-    In addition to technical labs, I bring real-world incident management experience from high-risk, high-accountability
-    environments. This work reflects skills directly transferable to IT support and operations:
-    rapid assessment, calm communication, escalation, accountability, and structured response under pressure.
-  </p>
+- [Wildfire Incident Response System](https://github.com/erivera3/wildfire-incident-response-system/)  
+- Earthquake Response Protocol *(link coming soon)*  
+- Campus Security Intruder Response *(link coming soon)*  
 
-  <h3>Wildfire Incident Response System (Real-World Case Study)</h3>
-  <ul>
-    <li>
-      <a href="https://github.com/erivera3/wildfire-incident-response-system/">
-        Detection, Containment, and Evacuation Planning Under Uncertainty
-      </a>
-    </li>
-  </ul>
+**Transferable Skills:** incident response, risk assessment, escalation, coordination, accountability  
 
-  <p>
-    <b>Transferable skills demonstrated:</b> incident response, risk assessment, communication under stress,
-    systems thinking, contingency planning, and coordinated execution.
-  </p>
+---
 
-  <h3>Earthquake Response & Student Safety Protocol</h3>
-  <ul>
-    <li>
-      <a href="PASTE_EARTHQUAKE_REPO_LINK_HERE">
-        Immediate Response, Accountability, and Post-Event Coordination
-      </a>
-    </li>
-  </ul>
+## 📘 Certifications & Coursework
+- [Technical Support Fundamentals – Google (Dec 2025)](https://www.coursera.org/account/accomplishments/records/YPQ25WXG5M3K)  
+- [The Bits and Bytes of Computer Networking – Google (Mar 2026)](https://www.coursera.org/account/accomplishments/verify/640EJGQWAFQD)  
 
-  <p>
-    <b>Transferable skills demonstrated:</b> emergency response, accountability systems,
-    coordination under uncertainty, and structured decision-making.
-  </p>
+---
 
-  <h3>Campus Security Incident: Intruder Response</h3>
-  <ul>
-    <li>
-      <a href="PASTE_INTRUDER_REPO_LINK_HERE">
-        Threat Detection, Communication, and Controlled Response
-      </a>
-    </li>
-  </ul>
+## 🎯 Current Focus
+- Strengthening networking fundamentals through hands-on labs  
+- Expanding Active Directory environments in Azure  
+- Simulating real-world help desk scenarios  
+- Improving technical documentation and troubleshooting workflows  
 
-  <p>
-    <b>Transferable skills demonstrated:</b> threat assessment, communication protocols,
-    rapid response coordination, and risk mitigation.
-  </p>
+---
 
-  <hr>
-
-  <h2>📘 Certifications & Coursework</h2>
-  <ul>
-    <li>
-      <a href="https://www.coursera.org/account/accomplishments/records/YPQ25WXG5M3K">
-        Technical Support Fundamentals - Google (Dec 2025)<br>
-        Credential ID: YPQ25WXG5M3K
-      </a>
-    </li>
-    <li>
-      <a href="https://www.coursera.org/account/accomplishments/verify/640EJGQWAFQD">
-        The Bits and Bytes of Computer Networking - Google (Mar 2026)<br>
-        Credential ID: 640EJGQWAFQD
-      </a>
-    </li>
-  </ul>
-
-  <hr>
-
-  <h2>🎯 Current Technical Focus</h2>
-  <ul>
-    <li>Applying networking fundamentals (TCP/IP, DNS, DHCP) in hands-on lab environments</li>
-    <li>Building and troubleshooting Active Directory environments in Azure</li>
-    <li>Simulating help desk workflows using ticketing systems (osTicket)</li>
-    <li>Improving technical documentation and structured troubleshooting</li>
-  </ul>
-
-  <hr>
-
-  <h2>🧠 Professional Strengths</h2>
-  <ul>
-    <li>Systems thinking</li>
-    <li>Structured problem-solving</li>
-    <li>Incident response and accountability</li>
-    <li>Operations leadership in high-responsibility environments</li>
-    <li>Clear documentation and process design</li>
-  </ul>
-
-  <hr>
-
-  <h2>🤝 Connect With Me</h2>
-
-  <p>
-    <a href="https://www.linkedin.com/in/eladiorivera/">LinkedIn</a> |
-    <a href="https://github.com/erivera3">GitHub</a>
-  </p>
-</body>
-</html>
+## 🤝 Connect
+- [LinkedIn](https://www.linkedin.com/in/eladiorivera/)  
+- [GitHub](https://github.com/erivera3)
