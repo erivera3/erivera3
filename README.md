@@ -20,9 +20,9 @@ I build hands-on lab environments in Active Directory, Azure, ticketing systems,
 ## 💻 IT Support & System Administration Labs
 
 ### 🔹 Help Desk & Ticketing Systems (osTicket)
-- [osTicket: Prerequisites and Installation](https://github.com/erivera3/osticket-prereqs/)  
-- [osTicket: Post-Installation Configuration](https://github.com/erivera3/post-install-config)  
-- [osTicket: Ticket Lifecycle Examples](https://github.com/erivera3/ticket-lifecycle)  
+- [osTicket: Deployment in Azure (Web Application Simulation)](https://github.com/erivera3/osticket-prereqs/)  
+- [osTicket: Help Desk Deployment & Service Configuration (Enterprise Simulation)](https://github.com/erivera3/post-install-config)  
+- [osTicket: Ticket Lifecycle Examples (Enterprise Simulation)](https://github.com/erivera3/ticket-lifecycle)  
 
 **Skills:** ticket workflows, user support, troubleshooting, escalation, system configuration  
 
