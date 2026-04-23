@@ -1,9 +1,9 @@
 # Eladio Rivera  
 **IT Support | System Administration | Networking**
 
-Boarding Director with 12+ years managing high-accountability environments, now transitioning into IT support, system administration, and infrastructure.
+Boarding Director with 12+ years managing high-accountability environments, transitioning into IT support and system administration with a focus on infrastructure, access control, and system operations.
 
-I build hands-on lab environments in Active Directory, Azure, ticketing systems, and networking, with a focus on troubleshooting, system behavior, and practical implementation.
+Experience building and managing lab environments across Active Directory, Azure, ticketing systems, and network security, emphasizing troubleshooting, system behavior, escalation workflows, and real-world operational scenarios.
 
 ---
 
