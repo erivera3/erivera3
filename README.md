@@ -29,8 +29,8 @@ I build hands-on lab environments in Active Directory, Azure, ticketing systems,
 ---
 
 ### 🔹 Microsoft Azure & Active Directory
-- [Configuring Active Directory in Azure Virtual Machines](https://github.com/erivera3/configure-ad/)  
-- [Network Security Groups (NSGs) & Protocol Inspection](https://github.com/erivera3/azure-network-protocols)  
+- [Active Directory Deployment in Azure (Enterprise Simulation)](https://github.com/erivera3/configure-ad/)  
+- [Azure Network Security Groups (NSGs) & Traffic Inspection (Enterprise Simulation)](https://github.com/erivera3/azure-network-protocols)  
 
 **Skills:** user/group management, domain services, cloud environments, network security  
 
