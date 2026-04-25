@@ -3,7 +3,7 @@
 
 Boarding Director with 12+ years managing high-accountability environments, transitioning into IT support and system administration with a focus on infrastructure, access control, and system operations.
 
-Experience building and managing lab environments across Active Directory, Azure, ticketing systems, and network security, emphasizing troubleshooting, system behavior, escalation workflows, and real-world operational scenarios.
+Experience building and managing lab environments across Active Directory, Azure, virtualization, network infrastructure, and security, emphasizing troubleshooting, system behavior, escalation workflows, and real-world operational scenarios.
 
 ---
 
@@ -11,7 +11,9 @@ Experience building and managing lab environments across Active Directory, Azure
 - Active Directory administration  
 - Help desk workflows & ticketing systems (osTicket)  
 - Windows & Azure lab environments  
-- Networking fundamentals (TCP/IP, DNS, DHCP)  
+- Virtualization (Proxmox)  
+- Networking fundamentals (TCP/IP, DNS, DHCP, VLANs)  
+- Firewall configuration (OPNsense / pfSense)  
 - Troubleshooting & system diagnostics  
 - Technical documentation  
 
@@ -36,6 +38,30 @@ Experience building and managing lab environments across Active Directory, Azure
 
 ---
 
+### 🔹 Homelab Infrastructure (Enterprise-Style Lab)
+- Homelab: Proxmox Virtualization, TrueNAS, Active Directory, DNS, Firewall *(repo coming soon)*  
+
+**Environment Includes:**
+- Proxmox virtualization host (ZFS storage)
+- Windows Server 2022 (Active Directory + DNS)
+- Ubuntu Server (SSH administration)
+- TrueNAS SCALE (NAS & ZFS storage)
+- Cisco managed switch (VLAN-capable)
+- Dedicated firewall appliance (OPNsense / pfSense)
+
+**Key Work Performed:**
+- Converted legacy desktop hardware into a virtualization server (removed GPU to reduce power/heat)
+- Migrated infrastructure to modern low-power hardware
+- Backed up and replaced NAS operating system using disk imaging (Rescuezilla)
+- Designed and configured internal DNS architecture (lab.local domain)
+- Configured DHCP to integrate with domain DNS
+- Troubleshot systemd-resolved behavior and DNS failures
+- Deployed and configured firewall hardware for network segmentation
+
+**Skills:** infrastructure design, virtualization, DNS troubleshooting, system migration, network architecture, firewall configuration  
+
+---
+
 ### 🔹 Networking & Home Lab Projects
 - Wi-Fi Access Point / DD-WRT Networking Project *(link coming soon)*  
 - Additional Networking Lab *(link coming soon)*  
@@ -47,6 +73,7 @@ Experience building and managing lab environments across Active Directory, Azure
 ## 🧩 What These Projects Demonstrate
 - Real-world IT support scenarios  
 - Structured troubleshooting and root-cause analysis  
+- Infrastructure-level thinking (not just ticket handling)  
 - Clear documentation and communication  
 - Hands-on system configuration and management  
 
@@ -72,8 +99,9 @@ Experience managing real-world incidents in high-responsibility environments. Th
 
 ## 🎯 Current Focus
 - Strengthening networking fundamentals through hands-on labs  
-- Expanding Active Directory environments in Azure  
-- Simulating real-world help desk scenarios  
+- Expanding Active Directory environments  
+- Building enterprise-style homelab infrastructure  
+- Deploying firewall segmentation and VLAN networks  
 - Improving technical documentation and troubleshooting workflows  
 
 ---
