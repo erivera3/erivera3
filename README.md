@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/banner.png" />
+  <img src="./images/banner.png" width="800"/>
 </p>
 
 <h1 align="center">Eladio Rivera</h1>
@@ -11,9 +11,9 @@
 ---
 
 ## 🚀 About
-I build, troubleshoot, and maintain IT infrastructure across Active Directory, networking, virtualization, and system operations.
+Boarding Director with 12+ years managing high-accountability environments, now focused on IT support and system administration.
 
-Currently running a multi-system homelab environment simulating real-world infrastructure, including domain services, DNS, firewall routing, and user deployment scenarios.
+Built and managed lab environments across Active Directory, Azure, virtualization, and network infrastructure, with an emphasis on troubleshooting, system behavior, and real-world operational scenarios.
 
 ---
 
