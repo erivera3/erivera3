@@ -3,7 +3,7 @@
 
 Boarding Director with 12+ years managing high-accountability environments, transitioning into IT support and system administration with a focus on infrastructure, access control, and system operations.
 
-Experience building and managing lab environments across Active Directory, Azure, virtualization, network infrastructure, and security, emphasizing troubleshooting, system behavior, escalation workflows, and real-world operational scenarios.
+Experience building and managing lab environments across Active Directory, Azure, virtualization, and network infrastructure, with an emphasis on troubleshooting, system behavior, and real-world operational scenarios.
 
 ---
 
@@ -19,184 +19,52 @@ Experience building and managing lab environments across Active Directory, Azure
 
 ---
 
-## 💻 IT Support & System Administration Labs
+## 💻 IT Support & System Administration Projects
+
+### 🔹 Homelab Infrastructure (Enterprise-Style Lab)
+- [Homelab Infrastructure Evolution (Proxmox, TrueNAS, AD, DNS, Firewall)](https://github.com/erivera3/homelab-infrastructure)
+
+**Highlights:**
+- Built dual-system lab (Proxmox + TrueNAS) from legacy hardware
+- Optimized thermal performance (GPU removal, airflow redesign, thermal paste)
+- Consolidated scattered storage into centralized NAS (TrueNAS on UGREEN hardware)
+- Designed internal DNS + Active Directory environment (`lab.local`)
+- Built firewall infrastructure (OPNsense) with multi-NIC routing
+- Transitioned from consumer networking (DD-WRT) to OpenWRT and firewall-based architecture
+- Attempted PXE deployment → pivoted to parallel USB deployment (13 systems)
+- Deployed repurposed systems for real users (student environment)
+
+**Skills:** infrastructure design, virtualization, DNS troubleshooting, system optimization, network architecture  
+
+---
 
 ### 🔹 Help Desk & Ticketing Systems (osTicket)
-- [osTicket: Deployment in Azure (Web Application Simulation)](https://github.com/erivera3/osticket-prereqs/)  
-- [osTicket: Help Desk Deployment & Service Configuration (Enterprise Simulation)](https://github.com/erivera3/post-install-config)  
-- [osTicket: Ticket Lifecycle Examples (Enterprise Simulation)](https://github.com/erivera3/ticket-lifecycle)  
+- [osTicket: Deployment in Azure](https://github.com/erivera3/osticket-prereqs/)  
+- [osTicket: Configuration & Service Setup](https://github.com/erivera3/post-install-config)  
+- [osTicket: Ticket Lifecycle Examples](https://github.com/erivera3/ticket-lifecycle)  
 
-**Skills:** ticket workflows, user support, troubleshooting, escalation, system configuration  
+**Skills:** ticket workflows, troubleshooting, escalation, user support  
 
 ---
 
 ### 🔹 Microsoft Azure & Active Directory
-- [Active Directory Deployment in Azure (Enterprise Simulation)](https://github.com/erivera3/configure-ad/)  
-- [Azure Network Security Groups (NSGs) & Traffic Inspection (Enterprise Simulation)](https://github.com/erivera3/azure-network-protocols)  
+- [Active Directory Deployment in Azure](https://github.com/erivera3/configure-ad/)  
+- [Azure Network Security Groups & Traffic Inspection](https://github.com/erivera3/azure-network-protocols)  
 
-**Skills:** user/group management, domain services, cloud environments, network security  
-
----
-
-### 🔹 Homelab Infrastructure (Enterprise-Style Lab)
-- Homelab: Proxmox, TrueNAS, Active Directory, DNS, Firewall *(repo coming soon)*  
-
----
-
-## ⚡ Infrastructure Evolution & Engineering Decisions
-
-This environment was built through multiple iterations based on real-world constraints: power, heat, noise, and system limitations.
-
-### Phase 1 — Dual Legacy Systems
-- Separate systems for:
-  - Proxmox (virtualization)
-  - TrueNAS (storage)
-- Removed GTX 970 GPU to reduce heat and power consumption
-- Converted systems to headless operation
-
-### Phase 1A — Thermal Optimization
-- Cleaned systems using compressed air
-- Reapplied CPU thermal paste
-- Reduced fan load and improved cooling efficiency
-
-### Phase 1B — Airflow Redesign
-- Identified inefficient fan layout (5 fans causing turbulence)
-- Corrected airflow path (front → back)
-- Eliminated heat recirculation
-
-**Key Insight:** More fans ≠ better cooling — airflow design matters
-
----
-
-### Phase 2 — Storage Consolidation (UGREEN NAS)
-
-**Problem:**
-- Multiple HDDs scattered across systems
-- No centralized storage
-- Poor data organization
-
-**Solution:**
-- Purchased UGREEN DXP4800 Pro NAS
-- Replaced factory OS with TrueNAS SCALE
-
-**Actions:**
-- Backed up original OS using Rescuezilla
-- Verified disk image integrity
-- Removed drives before install (data protection)
-- Installed TrueNAS and prepared ZFS pools
-
-**Outcome:**
-- Centralized storage system
-- Improved data organization
-- Full control over NAS environment
-
----
-
-### Phase 3 — Network & Router Evolution
-- Reflashed routers:
-  - DD-WRT → OpenWRT
-- Learned limitations of consumer firmware
-- Transitioned to more flexible network control
-
----
-
-### Phase 4 — Firewall Architecture
-- Built dedicated firewall system (Intel N150, 4 NICs)
-- Tested pfSense → migrated to OPNsense
-- Learned:
-  - interface mapping
-  - routing
-  - firewall segmentation
-
----
-
-### Phase 5 — Virtualization Strategy Expansion
-- Installed Proxmox on firewall hardware
-- Virtualized:
-  - OPNsense (firewall)
-  - Pi-hole (DNS filtering)
-
-**Outcome:**
-- Service isolation
-- Flexible infrastructure design
-- Consolidated network services
-
----
-
-### Phase 6 — Modern Infrastructure Upgrade
-- Migrated to Minisforum MS-A2
-- 32GB DDR5 + NVMe + ZFS
-
-**Result:**
-- Reduced power consumption
-- Lower heat and noise
-- Stable 24/7 operation
-
----
-
-### Phase 7 — Active Directory & DNS
-- Deployed Windows Server 2022 (DC01)
-- Created domain: lab.local
-- Configured DNS (192.168.1.20)
-
-**Work Performed:**
-- Created DNS records
-- Fixed DNS failures (systemd-resolved)
-- Integrated DHCP with domain DNS
-
----
-
-### Phase 8 — Real-World Deployment (School Systems)
-
-- Acquired decommissioned school computers
-- Removed from legacy Active Directory domain
-- Performed full disk sanitization
-- Installed Zorin OS
-
-**Deployment:**
-- ~13 systems used for:
-  - Scratch programming
-  - hardware introduction for students
-
----
-
-### Phase 9 — OS Deployment Strategy (PXE Attempt)
-
-**Goal:**
-- Automate deployment using PXE server
-
-**Actions:**
-- Built Ubuntu PXE server
-- Attempted network ISO deployment
-
-**Challenges:**
-- PXE complexity (DHCP/TFTP/bootloader)
-- Time constraints
-
-**Final Solution:**
-- Used 4 USB drives with Balena Etcher
-- Deployed OS in parallel manually
-
-**Outcome:**
-- Successful deployment to all systems
-
-**Key Insight:**
-Automation is powerful—but execution under constraints is critical
+**Skills:** domain services, user/group management, cloud networking  
 
 ---
 
 ## 🧩 What These Projects Demonstrate
 - Real-world IT problem solving  
-- Infrastructure-level thinking  
-- Root-cause analysis and iteration  
-- System lifecycle management  
-- Hardware + software integration  
-- Adaptability under constraints  
+- Structured troubleshooting and root-cause analysis  
+- Infrastructure-level thinking (beyond basic help desk)  
+- Hardware + software system integration  
+- Adaptability under real-world constraints  
 
 ---
 
 ## 🚨 Operational Incident Response (Transferable Skills)
-
 - [Wildfire Incident Response System](https://github.com/erivera3/wildfire-incident-response-system/)  
 - Earthquake Response Protocol *(coming soon)*  
 - Campus Security Intruder Response *(coming soon)*  
@@ -206,13 +74,13 @@ Automation is powerful—but execution under constraints is critical
 ---
 
 ## 📘 Certifications & Coursework
-- Google IT Support Certificate  
-- Google Networking Certificate  
+- [Technical Support Fundamentals – Google](https://www.coursera.org/account/accomplishments/records/YPQ25WXG5M3K)  
+- [The Bits and Bytes of Computer Networking – Google](https://www.coursera.org/account/accomplishments/verify/640EJGQWAFQD)  
 
 ---
 
 ## 🎯 Current Focus
-- Networking & VLAN segmentation  
+- Networking fundamentals and VLAN segmentation  
 - Firewall deployment (OPNsense)  
 - Active Directory expansion  
 - Infrastructure documentation  
