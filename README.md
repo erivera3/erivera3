@@ -39,70 +39,183 @@ Experience building and managing lab environments across Active Directory, Azure
 ---
 
 ### 🔹 Homelab Infrastructure (Enterprise-Style Lab)
-- Homelab: Proxmox Virtualization, TrueNAS, Active Directory, DNS, Firewall *(repo coming soon)*  
-
-**Environment Includes:**
-- Proxmox virtualization host (ZFS storage)
-- Windows Server 2022 (Active Directory + DNS)
-- Ubuntu Server (SSH administration)
-- TrueNAS SCALE (NAS & ZFS storage)
-- Cisco managed switch (VLAN-capable)
-- Dedicated firewall appliance (OPNsense / pfSense)
-
-**Key Work Performed:**
-- Converted legacy desktop hardware into a virtualization server (removed GPU to reduce power/heat)
-- Migrated infrastructure to modern low-power hardware
-- Backed up and replaced NAS operating system using disk imaging (Rescuezilla)
-- Designed and configured internal DNS architecture (lab.local domain)
-- Configured DHCP to integrate with domain DNS
-- Troubleshot systemd-resolved behavior and DNS failures
-- Deployed and configured firewall hardware for network segmentation
-
-**Skills:** infrastructure design, virtualization, DNS troubleshooting, system migration, network architecture, firewall configuration  
+- Homelab: Proxmox, TrueNAS, Active Directory, DNS, Firewall *(repo coming soon)*  
 
 ---
 
-### 🔹 Networking & Home Lab Projects
-- Wi-Fi Access Point / DD-WRT Networking Project *(link coming soon)*  
-- Additional Networking Lab *(link coming soon)*  
+## ⚡ Infrastructure Evolution & Engineering Decisions
 
-**Skills:** network configuration, troubleshooting, connectivity testing, device access recovery  
+This environment was built through multiple iterations based on real-world constraints: power, heat, noise, and system limitations.
+
+### Phase 1 — Dual Legacy Systems
+- Separate systems for:
+  - Proxmox (virtualization)
+  - TrueNAS (storage)
+- Removed GTX 970 GPU to reduce heat and power consumption
+- Converted systems to headless operation
+
+### Phase 1A — Thermal Optimization
+- Cleaned systems using compressed air
+- Reapplied CPU thermal paste
+- Reduced fan load and improved cooling efficiency
+
+### Phase 1B — Airflow Redesign
+- Identified inefficient fan layout (5 fans causing turbulence)
+- Corrected airflow path (front → back)
+- Eliminated heat recirculation
+
+**Key Insight:** More fans ≠ better cooling — airflow design matters
+
+---
+
+### Phase 2 — Storage Consolidation (UGREEN NAS)
+
+**Problem:**
+- Multiple HDDs scattered across systems
+- No centralized storage
+- Poor data organization
+
+**Solution:**
+- Purchased UGREEN DXP4800 Pro NAS
+- Replaced factory OS with TrueNAS SCALE
+
+**Actions:**
+- Backed up original OS using Rescuezilla
+- Verified disk image integrity
+- Removed drives before install (data protection)
+- Installed TrueNAS and prepared ZFS pools
+
+**Outcome:**
+- Centralized storage system
+- Improved data organization
+- Full control over NAS environment
+
+---
+
+### Phase 3 — Network & Router Evolution
+- Reflashed routers:
+  - DD-WRT → OpenWRT
+- Learned limitations of consumer firmware
+- Transitioned to more flexible network control
+
+---
+
+### Phase 4 — Firewall Architecture
+- Built dedicated firewall system (Intel N150, 4 NICs)
+- Tested pfSense → migrated to OPNsense
+- Learned:
+  - interface mapping
+  - routing
+  - firewall segmentation
+
+---
+
+### Phase 5 — Virtualization Strategy Expansion
+- Installed Proxmox on firewall hardware
+- Virtualized:
+  - OPNsense (firewall)
+  - Pi-hole (DNS filtering)
+
+**Outcome:**
+- Service isolation
+- Flexible infrastructure design
+- Consolidated network services
+
+---
+
+### Phase 6 — Modern Infrastructure Upgrade
+- Migrated to Minisforum MS-A2
+- 32GB DDR5 + NVMe + ZFS
+
+**Result:**
+- Reduced power consumption
+- Lower heat and noise
+- Stable 24/7 operation
+
+---
+
+### Phase 7 — Active Directory & DNS
+- Deployed Windows Server 2022 (DC01)
+- Created domain: lab.local
+- Configured DNS (192.168.1.20)
+
+**Work Performed:**
+- Created DNS records
+- Fixed DNS failures (systemd-resolved)
+- Integrated DHCP with domain DNS
+
+---
+
+### Phase 8 — Real-World Deployment (School Systems)
+
+- Acquired decommissioned school computers
+- Removed from legacy Active Directory domain
+- Performed full disk sanitization
+- Installed Zorin OS
+
+**Deployment:**
+- ~13 systems used for:
+  - Scratch programming
+  - hardware introduction for students
+
+---
+
+### Phase 9 — OS Deployment Strategy (PXE Attempt)
+
+**Goal:**
+- Automate deployment using PXE server
+
+**Actions:**
+- Built Ubuntu PXE server
+- Attempted network ISO deployment
+
+**Challenges:**
+- PXE complexity (DHCP/TFTP/bootloader)
+- Time constraints
+
+**Final Solution:**
+- Used 4 USB drives with Balena Etcher
+- Deployed OS in parallel manually
+
+**Outcome:**
+- Successful deployment to all systems
+
+**Key Insight:**
+Automation is powerful—but execution under constraints is critical
 
 ---
 
 ## 🧩 What These Projects Demonstrate
-- Real-world IT support scenarios  
-- Structured troubleshooting and root-cause analysis  
-- Infrastructure-level thinking (not just ticket handling)  
-- Clear documentation and communication  
-- Hands-on system configuration and management  
+- Real-world IT problem solving  
+- Infrastructure-level thinking  
+- Root-cause analysis and iteration  
+- System lifecycle management  
+- Hardware + software integration  
+- Adaptability under constraints  
 
 ---
 
 ## 🚨 Operational Incident Response (Transferable Skills)
 
-Experience managing real-world incidents in high-responsibility environments. These projects highlight decision-making under pressure, communication, and structured response—skills directly transferable to IT support and operations.
-
 - [Wildfire Incident Response System](https://github.com/erivera3/wildfire-incident-response-system/)  
-- Earthquake Response Protocol *(link coming soon)*  
-- Campus Security Intruder Response *(link coming soon)*  
+- Earthquake Response Protocol *(coming soon)*  
+- Campus Security Intruder Response *(coming soon)*  
 
-**Transferable Skills:** incident response, risk assessment, escalation, coordination, accountability  
+**Skills:** incident response, escalation, coordination, decision-making  
 
 ---
 
 ## 📘 Certifications & Coursework
-- [Technical Support Fundamentals – Google (Dec 2025)](https://www.coursera.org/account/accomplishments/records/YPQ25WXG5M3K)  
-- [The Bits and Bytes of Computer Networking – Google (Mar 2026)](https://www.coursera.org/account/accomplishments/verify/640EJGQWAFQD)  
+- Google IT Support Certificate  
+- Google Networking Certificate  
 
 ---
 
 ## 🎯 Current Focus
-- Strengthening networking fundamentals through hands-on labs  
-- Expanding Active Directory environments  
-- Building enterprise-style homelab infrastructure  
-- Deploying firewall segmentation and VLAN networks  
-- Improving technical documentation and troubleshooting workflows  
+- Networking & VLAN segmentation  
+- Firewall deployment (OPNsense)  
+- Active Directory expansion  
+- Infrastructure documentation  
 
 ---
 
