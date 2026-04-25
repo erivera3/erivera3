@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" />
+</p>
 # Eladio Rivera  
 **IT Support | System Administration | Networking**
 
