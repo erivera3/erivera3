@@ -71,10 +71,12 @@ Built and managed lab environments across Active Directory, Azure, virtualizatio
 ---
 
 ## 🚨 Incident Response (Transferable Skills)
-- [Wildfire Incident Response System](https://github.com/erivera3/wildfire-incident-response-system/)  
+- [Wildfire Incident Response System](https://github.com/erivera3/wildfire-incident-response-system/)
+- Earthquake Response Protocol *(coming soon)*
+- Campus Security Intruder Response *(coming soon)*
 
-**Focus:** Incident response, escalation, coordination, decision-making  
-
+ **Skills:** incident response, escalation, coordination, decision-making
+ 
 ---
 
 ## 📘 Certifications
