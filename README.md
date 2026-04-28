@@ -93,7 +93,8 @@ Experience managing real-world incident response in high-risk environments, incl
 
 ## 📘 Certifications
 - [Technical Support Fundamentals – Google](https://www.coursera.org/account/accomplishments/records/YPQ25WXG5M3K)  
-- [The Bits and Bytes of Computer Networking – Google](https://www.coursera.org/account/accomplishments/verify/640EJGQWAFQD)  
+- [The Bits and Bytes of Computer Networking – Google](https://www.coursera.org/account/accomplishments/verify/640EJGQWAFQD)
+- [Operating Systems and You: Becoming a Power User – Google](https://coursera.org/share/0caf7434a09996cece55338f6c37ad89) 
 - CompTIA A+ (in progress)  
 
 ---
