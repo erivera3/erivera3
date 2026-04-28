@@ -44,8 +44,8 @@ Built a multi-system lab environment using Proxmox (virtualization) and TrueNAS 
 ### 🔹 Help Desk & Ticketing Systems (osTicket)
 
 **Projects:**  
-[Deployment in Azure](https://github.com/erivera3/osticket-prereqs/)
-[Configuration & Setup](https://github.com/erivera3/post-install-config) 
+[Deployment in Azure](https://github.com/erivera3/osticket-prereqs/)  
+[Configuration & Setup](https://github.com/erivera3/post-install-config)  
 [Ticket Lifecycle Examples](https://github.com/erivera3/ticket-lifecycle)
 
 **Overview:**  
@@ -58,7 +58,7 @@ Deployed and configured osTicket in an Azure environment. Managed ticket lifecyc
 ### 🔹 Azure & Active Directory
 
 **Projects:**  
-[Active Directory Deployment](https://github.com/erivera3/configure-ad/) 
+[Active Directory Deployment](https://github.com/erivera3/configure-ad/)  
 [Network Security & Traffic Inspection](https://github.com/erivera3/azure-network-protocols)
 
 **Overview:**  
