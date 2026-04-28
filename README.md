@@ -19,11 +19,11 @@ Building hands-on technical experience through lab environments and practical pr
 
 ## 🛠 Core Skills
 - Active Directory & user management  
-- Help desk workflows & ticketing systems (osTicket)  
-- Windows & Azure environments  
+- Windows / Azure environments  
 - Virtualization (Proxmox)  
 - Networking (TCP/IP, DNS, DHCP, VLANs)  
 - Firewall configuration (OPNsense / pfSense)  
+- Help desk workflows & ticketing systems (osTicket)  
 - Troubleshooting & system diagnostics  
 - Technical documentation  
 
@@ -34,36 +34,35 @@ Building hands-on technical experience through lab environments and practical pr
 ### 🔹 Homelab Infrastructure (System Administration & Networking)
 👉 **[View Project](https://github.com/erivera3/homelab-infrastructure)**  
 
-- Built infrastructure using Proxmox (virtualization) and TrueNAS (storage)  
-- Deployed Active Directory domain with internal DNS (`lab.local`)  
-- Configured OPNsense firewall with multi-NIC routing and network segmentation  
-- Reimaged and configured 13 workstations for a standardized environment  
-- Transitioned from consumer networking to structured infrastructure design  
+**Overview:**  
+Built a multi-system lab environment using Proxmox (virtualization) and TrueNAS (storage). Deployed an Active Directory domain with internal DNS, configured firewall routing and segmentation with OPNsense, and reimaged 13 workstations into a standardized environment.
 
 **Focus:** System administration, networking, troubleshooting, deployment  
 
 ---
 
 ### 🔹 Help Desk & Ticketing Systems (osTicket)
-- [Deployment in Azure](https://github.com/erivera3/osticket-prereqs/)  
-- [Configuration & Setup](https://github.com/erivera3/post-install-config)  
-- [Ticket Lifecycle Examples](https://github.com/erivera3/ticket-lifecycle)  
 
-- Deployed and configured ticketing system in Azure  
-- Practiced ticket lifecycle: intake → escalation → resolution  
-- Simulated user support and troubleshooting scenarios  
+**Projects:**  
+[Deployment in Azure](https://github.com/erivera3/osticket-prereqs/) |  
+[Configuration & Setup](https://github.com/erivera3/post-install-config) |  
+[Ticket Lifecycle Examples](https://github.com/erivera3/ticket-lifecycle)
+
+**Overview:**  
+Deployed and configured osTicket in an Azure environment. Managed ticket lifecycle from intake to escalation and resolution while simulating real user support scenarios and troubleshooting workflows.
 
 **Focus:** Help desk workflows, user support, troubleshooting  
 
 ---
 
 ### 🔹 Azure & Active Directory
-- [Active Directory Deployment](https://github.com/erivera3/configure-ad/)  
-- [Network Security & Traffic Inspection](https://github.com/erivera3/azure-network-protocols)  
 
-- Deployed domain controller in Azure virtual machines  
-- Configured users, groups, and access controls  
-- Analyzed network traffic and basic security configurations  
+**Projects:**  
+[Active Directory Deployment](https://github.com/erivera3/configure-ad/) |  
+[Network Security & Traffic Inspection](https://github.com/erivera3/azure-network-protocols)
+
+**Overview:**  
+Deployed a domain controller in Azure virtual machines, configured users and access controls, and analyzed network traffic to understand basic communication and security behavior.
 
 **Focus:** Identity management, cloud systems, networking fundamentals  
 
@@ -79,11 +78,16 @@ Building hands-on technical experience through lab environments and practical pr
 ---
 
 ## 🚨 Incident Response (Transferable Skills)
-- [Wildfire Incident Response System](https://github.com/erivera3/wildfire-incident-response-system/)
-- Earthquake Response Protocol *(coming soon)*
-- Campus Security Intruder Response *(coming soon)*
 
-**Relevance:** Real-world experience with incident response, escalation, coordination, and decision-making under pressure  
+**Projects:**  
+[Wildfire Incident Response System](https://github.com/erivera3/wildfire-incident-response-system/)  
+Earthquake Response Protocol *(coming soon)*  
+Campus Security Intruder Response *(coming soon)*
+
+**Overview:**  
+Experience managing real-world incident response in high-risk environments, including escalation, coordination, and decision-making under pressure.
+
+**Relevance:** Directly transferable to IT incident response, escalation workflows, and operational reliability  
 
 ---
 
