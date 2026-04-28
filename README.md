@@ -5,20 +5,20 @@
 <h1 align="center">Eladio Rivera</h1>
 
 <p align="center">
-  IT Support | System Administration | Networking
+  IT Support | System Administration | Active Directory | Networking | Troubleshooting
 </p>
 
 ---
 
 ## 🚀 About
-Boarding Director with 12+ years managing high-accountability environments, now focused on IT support and system administration.
+Operations leader with 12+ years managing high-accountability environments, now transitioning into IT support and system administration.
 
-Built and managed lab environments across Active Directory, Azure, virtualization, and network infrastructure, with an emphasis on troubleshooting, system behavior, and real-world operational scenarios.
+Building hands-on technical experience through lab environments and practical projects across Active Directory, Azure, virtualization, and networking, with a focus on troubleshooting, system reliability, and user support.
 
 ---
 
 ## 🛠 Core Skills
-- Active Directory administration  
+- Active Directory & user management  
 - Help desk workflows & ticketing systems (osTicket)  
 - Windows & Azure environments  
 - Virtualization (Proxmox)  
@@ -31,16 +31,16 @@ Built and managed lab environments across Active Directory, Azure, virtualizatio
 
 ## 💻 Projects
 
-### 🔹 Homelab Infrastructure (Enterprise-Style Lab)
+### 🔹 Homelab Infrastructure (System Administration & Networking)
 👉 **[View Project](https://github.com/erivera3/homelab-infrastructure)**  
 
-- Built dual-system infrastructure (Proxmox + TrueNAS) from legacy hardware  
-- Designed Active Directory + internal DNS environment (`lab.local`)  
-- Implemented OPNsense firewall with multi-NIC routing  
-- Deployed and supported 13 systems for real users (student environment)  
-- Transitioned from consumer networking to segmented infrastructure design  
+- Built infrastructure using Proxmox (virtualization) and TrueNAS (storage)  
+- Deployed Active Directory domain with internal DNS (`lab.local`)  
+- Configured OPNsense firewall with multi-NIC routing and network segmentation  
+- Reimaged and configured 13 workstations for a standardized environment  
+- Transitioned from consumer networking to structured infrastructure design  
 
-**Focus:** Infrastructure, networking, system integration, real-world deployment  
+**Focus:** System administration, networking, troubleshooting, deployment  
 
 ---
 
@@ -49,7 +49,11 @@ Built and managed lab environments across Active Directory, Azure, virtualizatio
 - [Configuration & Setup](https://github.com/erivera3/post-install-config)  
 - [Ticket Lifecycle Examples](https://github.com/erivera3/ticket-lifecycle)  
 
-**Focus:** Ticket workflows, troubleshooting, escalation, user support  
+- Deployed and configured ticketing system in Azure  
+- Practiced ticket lifecycle: intake → escalation → resolution  
+- Simulated user support and troubleshooting scenarios  
+
+**Focus:** Help desk workflows, user support, troubleshooting  
 
 ---
 
@@ -57,16 +61,20 @@ Built and managed lab environments across Active Directory, Azure, virtualizatio
 - [Active Directory Deployment](https://github.com/erivera3/configure-ad/)  
 - [Network Security & Traffic Inspection](https://github.com/erivera3/azure-network-protocols)  
 
-**Focus:** Domain services, cloud networking, access control  
+- Deployed domain controller in Azure virtual machines  
+- Configured users, groups, and access controls  
+- Analyzed network traffic and basic security configurations  
+
+**Focus:** Identity management, cloud systems, networking fundamentals  
 
 ---
 
 ## 🧩 What This Demonstrates
-- Real-world problem solving  
-- Infrastructure-level thinking  
-- End-to-end system deployment  
-- Hardware + software integration  
-- Adaptability under constraints  
+- Hands-on system setup and configuration  
+- Troubleshooting and problem solving  
+- Basic infrastructure and networking concepts  
+- User support and system reliability  
+- Ability to learn and apply technical concepts quickly  
 
 ---
 
@@ -75,13 +83,14 @@ Built and managed lab environments across Active Directory, Azure, virtualizatio
 - Earthquake Response Protocol *(coming soon)*
 - Campus Security Intruder Response *(coming soon)*
 
- **Skills:** incident response, escalation, coordination, decision-making
- 
+**Relevance:** Real-world experience with incident response, escalation, coordination, and decision-making under pressure  
+
 ---
 
 ## 📘 Certifications
 - [Technical Support Fundamentals – Google](https://www.coursera.org/account/accomplishments/records/YPQ25WXG5M3K)  
 - [The Bits and Bytes of Computer Networking – Google](https://www.coursera.org/account/accomplishments/verify/640EJGQWAFQD)  
+- CompTIA A+ (in progress)  
 
 ---
 
