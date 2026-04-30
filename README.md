@@ -5,20 +5,22 @@
 <h1 align="center">Eladio Rivera</h1>
 
 <p align="center">
-  IT Support | System Administration | Active Directory | Networking | Troubleshooting
+  Systems & Infrastructure | Active Directory | Networking | Troubleshooting
 </p>
 
 ---
 
 ## 🚀 About
-Operations leader with 12+ years managing high-accountability environments, now transitioning into IT support and system administration.
+Built and operated a multi-system lab environment supporting real users, designed under constraints such as ISP limitations, hardware inefficiency, and network instability.
 
-Building hands-on technical experience through lab environments and practical projects across Active Directory, Azure, virtualization, and networking, with a focus on troubleshooting, system reliability, and user support.
+12+ years managing high-accountability environments, now applying that same operational mindset to IT systems—focusing on troubleshooting, system reliability, and controlled deployment.
+
+Work is centered on identifying failures, making decisions under constraints, and restoring system functionality across Windows, Azure, virtualization, and networked environments.
 
 ---
 
 ## 🛠 Core Skills
-- Active Directory & user management  
+- Active Directory & user lifecycle management  
 - Windows / Azure environments  
 - Virtualization (Proxmox)  
 - Networking (TCP/IP, DNS, DHCP, VLANs)  
@@ -34,10 +36,26 @@ Building hands-on technical experience through lab environments and practical pr
 ### 🔹 Homelab Infrastructure (System Administration & Networking)
 👉 **[View Project](https://github.com/erivera3/homelab-infrastructure)**  
 
-**Overview:**  
-Built a multi-system lab environment using Proxmox (virtualization) and TrueNAS (storage). Deployed an Active Directory domain with internal DNS, configured firewall routing and segmentation with OPNsense, and reimaged 13 workstations into a standardized environment.
+**Context:**  
+Environment supporting ~13 real systems, built under hardware, network, and ISP constraints.
 
-**Focus:** System administration, networking, troubleshooting, deployment  
+**Key Problems Solved:**  
+- ISP router restriction preventing full network control  
+- High power consumption and thermal inefficiency from legacy hardware  
+- Fragmented storage and lack of centralized data management  
+- Flat network design with limited traffic control  
+
+**Decisions & Actions:**  
+- Introduced OpenWRT and OPNsense to regain routing and firewall control  
+- Consolidated storage using TrueNAS with ZFS  
+- Redesigned infrastructure using smaller, energy-efficient hardware  
+- Reimaged and deployed 13 systems for real user environments  
+
+**Result:**  
+- Stable multi-system environment with controlled networking and centralized storage  
+- Reduced power usage, heat, and operational noise  
+- Real-world troubleshooting across DNS, AD, networking, and deployment  
+- Environment actively used and maintained, not simulated  
 
 ---
 
@@ -48,10 +66,23 @@ Built a multi-system lab environment using Proxmox (virtualization) and TrueNAS 
 [Configuration & Setup](https://github.com/erivera3/post-install-config)  
 [Ticket Lifecycle Examples](https://github.com/erivera3/ticket-lifecycle)
 
-**Overview:**  
-Deployed and configured osTicket in an Azure environment. Managed ticket lifecycle from intake to escalation and resolution while simulating real user support scenarios and troubleshooting workflows.
+**Context:**  
+Simulated support environment to understand how ticketing systems behave under different configurations and access constraints.
 
-**Focus:** Help desk workflows, user support, troubleshooting  
+**Key Problems Solved:**  
+- Application deployment blocked by misconfigured dependencies  
+- Lack of structured ticket routing and ownership  
+- Limited agent permissions preventing escalation  
+
+**Decisions & Actions:**  
+- Diagnosed and resolved IIS, PHP, and MySQL integration issues  
+- Structured help desk using roles, departments, teams, and SLA policies  
+- Simulated restricted access scenarios requiring escalation and admin intervention  
+
+**Result:**  
+- Fully functional ticketing system with controlled access and workflow structure  
+- Demonstrated understanding of how configuration impacts system behavior  
+- Experience troubleshooting multi-layer application environments  
 
 ---
 
@@ -61,19 +92,24 @@ Deployed and configured osTicket in an Azure environment. Managed ticket lifecyc
 [Active Directory Deployment](https://github.com/erivera3/configure-ad/)  
 [Network Security & Traffic Inspection](https://github.com/erivera3/azure-network-protocols)
 
-**Overview:**  
-Deployed a domain controller in Azure virtual machines, configured users and access controls, and analyzed network traffic to understand basic communication and security behavior.
+**Context:**  
+Cloud-based environment to analyze system communication, identity management, and network behavior.
 
-**Focus:** Identity management, cloud systems, networking fundamentals  
+**Key Problems Solved:**  
+- Domain join failures due to DNS misconfiguration  
+- Network communication issues between virtual machines  
+- Lack of visibility into how traffic behaves at the protocol level  
 
----
+**Decisions & Actions:**  
+- Reconfigured DNS to align with domain controller requirements  
+- Validated connectivity and network placement within Azure  
+- Used Wireshark to analyze real traffic across ICMP, DNS, DHCP, SSH, and RDP  
+- Applied and tested NSG rules to control traffic flow  
 
-## 🧩 What This Demonstrates
-- Hands-on system setup and configuration  
-- Troubleshooting and problem solving  
-- Basic infrastructure and networking concepts  
-- User support and system reliability  
-- Ability to learn and apply technical concepts quickly  
+**Result:**  
+- Functional Active Directory environment with domain-joined systems  
+- Improved troubleshooting through traffic-level validation  
+- Clear understanding of how cloud security rules impact real communication  
 
 ---
 
@@ -84,10 +120,23 @@ Deployed a domain controller in Azure virtual machines, configured users and acc
 Earthquake Response Protocol *(coming soon)*  
 Campus Security Intruder Response *(coming soon)*
 
-**Overview:**  
-Experience managing real-world incident response in high-risk environments, including escalation, coordination, and decision-making under pressure.
+**Context:**  
+Managed a real-world emergency involving 100+ individuals under uncertain and rapidly changing conditions.
 
-**Relevance:** Directly transferable to IT incident response, escalation workflows, and operational reliability  
+**Key Problems Solved:**  
+- Unclear threat progression with limited visibility  
+- Need for immediate decision-making without external direction  
+- Risk of delayed response under pressure  
+
+**Decisions & Actions:**  
+- Established predefined evacuation triggers to eliminate hesitation  
+- Implemented continuous monitoring and escalation protocols  
+- Reduced system load (population) to improve control and response speed  
+
+**Result:**  
+- Maintained full operational control with no injuries or incidents  
+- Demonstrated structured response under pressure  
+- Direct alignment with incident response, escalation workflows, and operational reliability in IT environments  
 
 ---
 
