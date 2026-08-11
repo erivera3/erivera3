@@ -143,7 +143,7 @@ Managed a real-world emergency involving 100+ individuals under uncertain and ra
 ## 📘 Certifications
 
 - CompTIA A+ (in progress)
-- Google IT Support Certificate (in progress)
+- [Google IT Support Certificate - Google](https://www.coursera.org/account/accomplishments/specialization/D98LZJUS7750)
 - [Technical Support Fundamentals – Google](https://www.coursera.org/account/accomplishments/records/YPQ25WXG5M3K)  
 - [The Bits and Bytes of Computer Networking – Google](https://www.coursera.org/account/accomplishments/verify/640EJGQWAFQD)
 - [Operating Systems and You: Becoming a Power User – Google](https://www.coursera.org/account/accomplishments/records/N7WMCW2PPOQT)
