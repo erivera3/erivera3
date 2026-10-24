@@ -27,6 +27,16 @@ My healthcare background includes a bachelor's degree in Biomedical Science, a m
 
 I'm professionally fluent in English and Spanish. Outside work, I practice and teach jiu-jitsu; staying calm, accepting feedback, and continuing to learn matter to me there as well.
 
+## IT support internship
+
+**LOG(N) Pacific · Remote · March–May 2026**
+
+During my CourseCareers internship, I combined peer assistance with structured technical labs.
+
+- Helped peers troubleshoot microphone problems, Azure VM deployment issues, and basic remote-access problems.
+- Explained binary fundamentals and OSI model concepts, and provided guidance on homelab projects and technical documentation.
+- Completed labs covering Azure VMs and networks, Active Directory, Windows file permissions, osTicket, and connectivity troubleshooting.
+
 ## Training and credentials
 
 - **Earned:** [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/D98LZJUS7750) and [Google AI Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/C42FN6QJWZ4Y).
@@ -35,7 +45,11 @@ I'm professionally fluent in English and Spanish. Outside work, I practice and t
 - **Completed:** CourseCareers Information Technology Course and a formal LOG(N) Pacific remote internship combining peer support with structured labs.
 
 <details>
-<summary><strong>Additional coursework</strong></summary>
+<summary><strong>Additional coursework and completion badges</strong></summary>
+
+- [IT Support Specialist Career Path – Cisco](https://www.credly.com/badges/7ea96591-3ed7-4a6c-a698-2d2cd637004a/linked_in_profile)
+- [Operating Systems Basics – Cisco](https://www.credly.com/badges/13f1d5cf-c912-4051-8206-a42acdfbe345/linked_in_profile)
+- [Computer Hardware Basics – Cisco](https://www.credly.com/badges/a88052e9-1011-4889-a859-b8d907b1db13/linked_in_profile)
 
 - [Technical Support Fundamentals – Google](https://www.coursera.org/account/accomplishments/records/YPQ25WXG5M3K)  
 - [The Bits and Bytes of Computer Networking – Google](https://www.coursera.org/account/accomplishments/verify/640EJGQWAFQD)
