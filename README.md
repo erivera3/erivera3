@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/linkedin-banner.jpg" alt="IT Support — Healthcare & Education. DNA-to-Ethernet design matching my LinkedIn profile." width="800"/>
+  <img src="./images/linkedin-banner.jpg" alt="IT Support — Healthcare & Education. DNA-to-Ethernet design." width="800"/>
 </p>
 
 <h1 align="center">Eladio Rivera</h1>
@@ -31,18 +31,16 @@ I'm professionally fluent in English and Spanish. Outside work, I practice and t
 
 - **Earned:** [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/D98LZJUS7750) and [Google AI Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/C42FN6QJWZ4Y).
 - **In progress:** Per Scholas NextGen IT Support training, with expected completion in January 2027.
-- **Preparing for:** CompTIA A+, required for Per Scholas graduation. I have not earned A+ yet.
+- **Preparing for:** CompTIA A+, required for Per Scholas graduation.
 - **Completed:** CourseCareers Information Technology Course and a formal LOG(N) Pacific remote internship combining peer support with structured labs.
 
 <details>
-<summary><strong>Additional coursework and existing credential links</strong></summary>
+<summary><strong>Additional coursework</strong></summary>
 
 - [Technical Support Fundamentals – Google](https://www.coursera.org/account/accomplishments/records/YPQ25WXG5M3K)  
 - [The Bits and Bytes of Computer Networking – Google](https://www.coursera.org/account/accomplishments/verify/640EJGQWAFQD)
-- [Operating Systems and You: Becoming a Power User – Google](https://www.coursera.org/account/accomplishments/records/N7WMCW2PPOQT)
+- [Operating Systems and You: Becoming a Power User – Google IT Support coursework](https://www.coursera.org/account/accomplishments/specialization/D98LZJUS7750)
 - [Hands-on Introduction to Linux Commands and Shell Scripting – IBM](https://www.coursera.org/account/accomplishments/records/N7WMCW2PPOQT)
-
-The original Google Operating Systems entry and IBM Linux entry share a record URL. The links are preserved here; the IBM title and record match my LinkedIn listing, while the Google course-specific record needs checking.
 
 </details>
 
@@ -57,13 +55,11 @@ The original Google Operating Systems entry and IBM Linux entry share a record U
 | Firewalls and routing | OPNsense, OpenWRT, and pfSense practice |
 | Help desk tools | osTicket installation, configuration, roles, departments, SLAs, and ticket workflows |
 
-The technical work below is identified by context. My school and healthcare roles are professional experience; the technical labs are learning environments. My homelab includes systems used by real people, but I do not present it as an enterprise IT role.
+My technical experience includes structured labs, peer support during my internship, and a personal infrastructure project used by real people.
 
 ## Technical projects
 
-Start with the area most relevant to your role:
-
-| Project | Context | What to look for |
+| Project | Environment | Work completed |
 | --- | --- | --- |
 | [osTicket deployment](https://github.com/erivera3/osticket-prereqs/) → [configuration](https://github.com/erivera3/post-install-config) → [ticket lifecycle](https://github.com/erivera3/ticket-lifecycle) | Structured support labs | Application troubleshooting, ticket ownership, documentation, and escalation |
 | [Active Directory in Azure](https://github.com/erivera3/configure-ad/) | Structured identity lab | DNS, domain joins, user provisioning, lockouts, and recovery |
@@ -73,7 +69,7 @@ Start with the area most relevant to your role:
 
 ### Help desk: osTicket lab series
 
-I deployed osTicket in Azure, configured the support environment, and practiced a ticket from intake through escalation and closure. These are simulated support scenarios, not customer incidents from a paid help desk role.
+I deployed osTicket in Azure, configured the support environment, and practiced a ticket from intake through escalation and closure. The lab scenarios cover ticket assessment, documentation, permissions, and escalation.
 
 <details>
 <summary><strong>Deployment, configuration, and ticket workflow notes</strong></summary>
@@ -206,7 +202,7 @@ The routine reduces eight wire positions to four pairs and a consistent sequence
 - **Retrieval practice and feedback:** Close the guide, build from empty pins, check your answer, and correct mistakes. Recalling the order gives you practice that simply looking at the answer does not.
 - **Spacing and mixing:** Return tomorrow, then a few days later. Once you can do each standard, alternate A and B to practice choosing the right order.
 
-**One correct attempt is not mastery.** Aim to wire both standards correctly from memory across several sessions. With practice, recall can become faster and require less conscious effort. These are learning principles, not claims that this particular game has been experimentally validated or that a specific brain region explains its effects.
+**One correct attempt is not mastery.** Aim to wire both standards correctly from memory across several sessions. With practice, recall can become faster and require less conscious effort. I use this routine to organize the material and practice recalling it over time.
 
 </details>
 
@@ -214,7 +210,7 @@ The routine reduces eight wire positions to four pairs and a consistent sequence
 
 **[Wildfire response case study](https://github.com/erivera3/wildfire-incident-response-system/)**
 
-This documents an actual school safety response, not a cybersecurity incident. I defined an evacuation trigger, staged resources, coordinated monitoring and communication, and reduced the on-site student population from 119 to 76. The trigger was not crossed, evacuation was not required, and no injuries were reported. The transferable skills are preparation, documentation, escalation, and calm judgment.
+While serving as Director of Boarding, I defined an evacuation trigger, staged resources, coordinated monitoring and communication, and reduced the on-site student population from 119 to 76. The trigger was not crossed, evacuation was not required, and no injuries were reported. The transferable skills are preparation, documentation, escalation, and calm judgment.
 
 <details>
 <summary><strong>Full incident summary, decisions, and transferable skills</strong></summary>
