@@ -33,6 +33,16 @@ Work is centered on identifying failures, making decisions under constraints, an
 
 ## 💻 Projects
 
+### 🔹 Ethernet Wiring Practice Game (T568A & T568B)
+
+👉 **[Play the Game](https://erivera3.github.io/ethernet-wiring-game/)** · **[View Source Code](https://github.com/erivera3/ethernet-wiring-game)**
+
+An interactive study tool I created with AI assistance while preparing for CompTIA A+. Choose T568A or T568B, place all eight wires, and check your answer. Includes drag-and-drop, tap controls, and optional hints.
+
+**Built with:** HTML, CSS, and JavaScript · Hosted on GitHub Pages.
+
+---
+
 ### 🔹 Homelab Infrastructure (System Administration & Networking)
 👉 **[View Project](https://github.com/erivera3/homelab-infrastructure)**  
 
