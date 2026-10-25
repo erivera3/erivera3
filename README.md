@@ -80,6 +80,7 @@ My technical experience includes structured labs, peer support during my interns
 | [Azure networking and Wireshark](https://github.com/erivera3/azure-network-protocols) | Controlled network lab | Connectivity checks, packet captures, and NSG rule testing |
 | [Homelab infrastructure](https://github.com/erivera3/homelab-infrastructure) | Personal infrastructure and user support | Hardware reuse, virtualization, centralized storage, DNS, and practical tradeoffs |
 | [Ethernet wiring game](https://github.com/erivera3/ethernet-wiring-game) · [Play](https://erivera3.github.io/ethernet-wiring-game/) | AI-assisted study project | Turning a learning problem into an interactive practice tool |
+| [Port Dojo — network port memory game](https://github.com/erivera3/port-dojo) | AI-assisted study project · documentation available | Visual memory stories, typed recall, and spaced repetition for A+ network ports |
 
 ### Help desk: osTicket lab series
 
@@ -219,6 +220,18 @@ The routine reduces eight wire positions to four pairs and a consistent sequence
 **One correct attempt is not mastery.** Aim to wire both standards correctly from memory across several sessions. With practice, recall can become faster and require less conscious effort. I use this routine to organize the material and practice recalling it over time.
 
 </details>
+
+### Port Dojo — network port memory game
+
+**[Read about the game and how to learn with it](https://github.com/erivera3/port-dojo#readme)**
+
+I created Port Dojo with AI assistance while studying network ports for CompTIA A+. It connects port numbers to illustrated cat scenes, then uses typed recall and spaced repetition to practice remembering them.
+
+My memory hooks include the **FTP file-transfer club: you need to be 21 to enter**, paired with port 20 for active-mode data, and **SMTP 25: “I need to send out 25 emails.”** Other scenes include two locks for SSH 22 and 53 detectives finding addresses for DNS.
+
+The learning routine is simple: **picture it, say it, hide it, recall it, check it, and revisit it.** The game covers 14 protocol families, 18 port facts, and 36 cards practiced in both directions. Again, Hard, Good, and Easy ratings guide a simplified spaced-review scheduler.
+
+The repository explains the memory stories, gameplay, and learning method. **The game files have not been uploaded to GitHub yet.**
 
 ## Professional experience: decisions under pressure
 
